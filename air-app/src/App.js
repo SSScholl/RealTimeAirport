@@ -39,7 +39,7 @@ class App extends Component {
 			if (item.flight === flightState.flight) {
 				item.state = flightState.state;
 			}
-				return item;
+			return item;
 		});
 
 		this.setState(Object.assign({}, {data: newData}));
