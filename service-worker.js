@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/RealTimeAirport/precache-manifest.2e8f427d6e9afcd6b1f4b17c6e9f1428.js"
+  "/RealTimeAirport/precache-manifest.7534445b9404da940e67f39a31b244fc.js"
 );
 
 workbox.clientsClaim();
